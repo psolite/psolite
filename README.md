@@ -9,23 +9,24 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://nextjs.org/favicon.ico" alt="nextjs" width="40" height="40"/> 
   </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
+    <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40"/> 
   </a>
+   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://nodejs.org/static/images/favicons/favicon.png" alt="nestjs" width="40" height="40"/> 
+  </a>
+   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/> 
   </a>
    <a href="https://solana.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/solana-labs/solana-logo/master/Solana-logo.png" alt="solana" width="40" height="40"/> 
+    <img src="https://solana.com/favicon.svg" alt="solana" width="40" height="40"/> 
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>  
@@ -52,7 +53,7 @@
 <h3>🛠 Skills & Technologies</h3>
 
 - Languages: JavaScript, TypeScript, Rust, PHP.
-- Frameworks & Libraries: Next.js, NestJS, Anchor, shadcn-ui, Laravel.
+- Frameworks & Libraries: Next.js, NestJS, Node.js, Anchor, shadcn-ui, Laravel.
 - Blockchain & Web3: Solana Blockchain, Metaplex Umi SDK.
 - Tools & Platforms: Blinks and Actions, JWT, DSCVR Canvas SDK, RESTful APIs.
 
