@@ -40,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://laravel.com/img/favicon/favicon-16x16.png" alt="laravel" width="40" height="40"/> 
+    <img src="https://laravel.com/img/favicon/favicon-32x32.png" alt="laravel" width="40" height="40"/> 
   </a> 
  
 </p>
