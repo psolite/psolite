@@ -40,12 +40,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://laravel.com/img/favicon/favicon-16x16.png" alt="laravel" width="40" height="40"/> 
   </a> 
-  <a href="https://dscvr.one/" target="_blank" rel="noreferrer"> 
-    <img src="https://dscvr.one/favicon-32x32.png" alt="DSCVR" width="40" height="40"/>
-  </a>
- 
  
 </p>
 
