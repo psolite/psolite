@@ -5,14 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psolite&label=Profile%20views&color=0e75b6&style=flat" alt="psolite" /> </p>
 
-<p align="left"> <a href="https://x.com/0xpsolitesol" target="blank"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F0xpsoliteSol"></a> 
-</p>
+<p align="left"> <a href="https://x.com/0xpsolitesol" target="blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/0xpsolitesol"></a></p>
+
 
 <h3>🛠 Skills & Technologies</h3>
-- Languages: JavaScript, TypeScript, Rust, PHP
-- Frameworks & Libraries: Next.js, NestJS, Anchor, shadcn-ui, Laravel
-- Blockchain & Web3: Solana Blockchain, Metaplex Umi SDK
-- Tools & Platforms: Blinks and Actions, JWT, DSCVR Canvas SDK, RESTful APIs
+
+- Languages: JavaScript, TypeScript, Rust, PHP.
+- Frameworks & Libraries: Next.js, NestJS, Anchor, shadcn-ui, Laravel.
+- Blockchain & Web3: Solana Blockchain, Metaplex Umi SDK.
+- Tools & Platforms: Blinks and Actions, JWT, DSCVR Canvas SDK, RESTful APIs.
 <!--
 **psolite/psolite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
