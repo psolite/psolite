@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm the Developer you are looking for</h1>
-<h3 align="center">A Backend and a Blockchain Developer</h3>
+<h3 align="center">Backend and Blockchain Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://avatars.githubusercontent.com/u/68122253?v=4">
 
